@@ -3,9 +3,9 @@
 require_once 'face/AipFace.php';
 
 // 你的 APPID AK SK
-const APP_ID = '11646592';
-const API_KEY = 'xrCekauRIqxloIWvVKEavitU';
-const SECRET_KEY = '5AMIbyG2ejagYR9HC9EsMUmRA0xXvx7e';
+const APP_ID = '';
+const API_KEY = '';
+const SECRET_KEY = '';
 
 $client = new AipFace(APP_ID, API_KEY, SECRET_KEY);
 
